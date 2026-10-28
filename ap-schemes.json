@@ -1,0 +1,409 @@
+[
+  {
+    "id": 5,
+    "name": "Annadata Sukhibhava – PM-KISAN",
+    "te": "అన్నదాత సుఖీభవ – పీఎం కిసాన్",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "agriculture",
+    "benefit": "₹20,000/year combined support — reported",
+    "desc": "State farmer assistance linked with PM-KISAN. Check beneficiary status at the dedicated government portal.",
+    "status": "Official programme",
+    "url": "https://annadathasukhibhava.ap.gov.in/",
+    "steps": [
+      "Open the official beneficiary portal.",
+      "Ask the local Rythu Seva Kendra to confirm eligibility, records and any correction process.",
+      "Check the current instalment notification before expecting a payment."
+    ],
+    "contact": "Rythu Seva Kendra / Mandal Agriculture Officer",
+    "sources": [
+      {
+        "title": "Dedicated beneficiary portal",
+        "url": "https://annadathasukhibhava.ap.gov.in/",
+        "kind": "Official"
+      },
+      {
+        "title": "District agriculture guidance",
+        "url": "https://tirupati.ap.gov.in/agriculture/",
+        "kind": "Official"
+      },
+      {
+        "title": "PTI: annual Centre/state breakdown, 2 August 2025",
+        "url": "https://www.tribuneindia.com/news/india/andhra-govt-disburses-rs-7000-each-to-47-lakh-farmers-under-annadatha-sukhibhava-scheme/amp",
+        "kind": "Dated news report"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Super Six",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "The 2 August 2025 PTI report describes ₹14,000 state support plus ₹6,000 PM-KISAN annually. Confirm current eligibility and instalments; do not add PM-KISAN a second time."
+  },
+  {
+    "id": 6,
+    "name": "NTR Bharosa Pensions",
+    "te": "ఎన్టీఆర్ భరోసా పెన్షన్లు",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "family",
+    "benefit": "₹4,000 / ₹6,000 / ₹10,000 by category",
+    "desc": "Monthly social-security pensions. The official portal lists enhanced rates under the June 2024 order, payable from July 2024.",
+    "status": "Official programme",
+    "url": "https://sspensions.ap.gov.in/SSP",
+    "steps": [
+      "Confirm your pension category and current application window at the local secretariat.",
+      "Use the official portal for scheme information and contacts.",
+      "Ask the responsible welfare officer about missing records or payment issues."
+    ],
+    "contact": "Village / Ward Secretariat welfare officer",
+    "sources": [
+      {
+        "title": "NTR Bharosa official portal",
+        "url": "https://sspensions.ap.gov.in/SSP",
+        "kind": "Official"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Other programmes",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "Listed rates: ₹4,000 for old age, widows and specified livelihood/social categories; ₹6,000 for disabled and multi-deformity leprosy categories; ₹10,000 for fully disabled and specified chronic-disease categories. Exact eligibility and medical classification require department confirmation."
+  },
+  {
+    "id": 7,
+    "name": "Talliki Vandanam",
+    "te": "తల్లికి వందనం",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "education",
+    "benefit": "₹15,000 total; ₹13,000 DBT reported",
+    "desc": "Education support for eligible mothers or guardians of school and Intermediate students. A total benefit and the amount reaching the bank account are different figures.",
+    "status": "Official programme; payment split reported",
+    "url": "https://tirupati.ap.gov.in/intermediate-education/",
+    "steps": [
+      "Ask the school headteacher or junior college to confirm student records and the current rules.",
+      "Check the beneficiary information through the authorised local secretariat.",
+      "For missing or incorrect records, ask the school and secretariat for the official correction route."
+    ],
+    "contact": "School headteacher / Junior College / Village or Ward Secretariat",
+    "sources": [
+      {
+        "title": "Official education programme description",
+        "url": "https://tirupati.ap.gov.in/intermediate-education/",
+        "kind": "Official"
+      },
+      {
+        "title": "July 2026 payment split report",
+        "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-govt-to-release-thalliki-vandanam-funds-on-july-22-1971425",
+        "kind": "News report"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Super Six",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "The official district page describes ₹15,000 assistance. July 2026 reporting says ₹13,000 reaches the mother/guardian and ₹2,000 is allocated to school upkeep. The current academic-year government order and individual payment status must be confirmed."
+  },
+  {
+    "id": 8,
+    "name": "Deepam 2.0",
+    "te": "దీపం 2.0",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "family",
+    "benefit": "3 eligible LPG refills per year",
+    "desc": "The official district Civil Supplies page describes three free LPG refills for eligible LPG consumers holding rice cards.",
+    "status": "Official programme",
+    "url": "https://westgodavari.ap.gov.in/civil-supplies/",
+    "steps": [
+      "Confirm rice-card and LPG-connection eligibility with the distributor or Civil Supplies office.",
+      "Ask the distributor about the current booking period and reimbursement process.",
+      "Keep the booking and payment receipt for any follow-up."
+    ],
+    "contact": "LPG distributor / District Civil Supplies Officer",
+    "sources": [
+      {
+        "title": "Civil Supplies: Deepam-2 implementation",
+        "url": "https://westgodavari.ap.gov.in/civil-supplies/",
+        "kind": "Official"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Super Six",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "Booking periods, upfront payment and reimbursement rules must be checked with the distributor. This app does not book cylinders."
+  },
+  {
+    "id": 9,
+    "name": "Stree Shakti",
+    "te": "స్త్రీ శక్తి",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "family",
+    "benefit": "Free travel on specified APSRTC services",
+    "desc": "APSRTC lists free travel for AP-domiciled girls, women and transgender citizens with valid identification.",
+    "status": "Official programme",
+    "url": "https://www.apsrtc.ap.gov.in/coverage.php",
+    "steps": [
+      "Carry valid proof accepted by APSRTC.",
+      "Confirm that the bus category and route are covered before boarding.",
+      "Ask the conductor for the applicable zero-fare ticket."
+    ],
+    "contact": "APSRTC depot / Bus station enquiry",
+    "sources": [
+      {
+        "title": "APSRTC coverage and exclusions",
+        "url": "https://www.apsrtc.ap.gov.in/coverage.php",
+        "kind": "Official"
+      }
+    ],
+    "docs": [
+      "Valid identification accepted by APSRTC proving AP domicile."
+    ],
+    "group": "Super Six",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "Covered: Pallevelugu, Ultra Pallevelugu, City Ordinary, Metro Express and Express. APSRTC excludes non-stop, interstate, chartered, contract-carriage services and package tours; enclave routes are permitted."
+  },
+  {
+    "id": 10,
+    "name": "Aadabidda Nidhi",
+    "te": "ఆడబిడ్డ నిధి",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "family",
+    "benefit": "₹1,500/month — campaign promise",
+    "desc": "A promise of monthly support for eligible women. An operative government order and current application process were not confirmed in this review.",
+    "status": "Rollout not confirmed",
+    "url": "",
+    "steps": [
+      "Watch for an official government order and eligibility guidelines.",
+      "Ask the local secretariat whether an authorised application process has opened."
+    ],
+    "contact": "Village / Ward Secretariat",
+    "sources": [
+      {
+        "title": "Background on the Super Six promises",
+        "url": "https://theprint.in/politics/in-2nd-year-of-rule-naidu-sets-welfare-agenda-with-super-six-rollout-vow-amid-fund-strain-ysrcp-barbs/2656842/",
+        "kind": "News report"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Super Six",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "The reported promise covers ages 19–59. This is not a verified operative eligibility rule: an implementation order and rollout were not confirmed."
+  },
+  {
+    "id": 11,
+    "name": "Yuva Nestham / Unemployment allowance",
+    "te": "యువ నేస్తం / నిరుద్యోగ భృతి",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "livelihood",
+    "benefit": "₹3,000/month — campaign promise",
+    "desc": "An unemployment allowance was included in election promises. Current rollout, eligibility and an application window were not confirmed.",
+    "status": "Rollout not confirmed",
+    "url": "",
+    "steps": [
+      "Wait for an official notification.",
+      "Use authorised employment and skill-development services for current opportunities."
+    ],
+    "contact": "District Employment Office / Skill Development Office",
+    "sources": [
+      {
+        "title": "Background on the Super Six promises",
+        "url": "https://theprint.in/politics/in-2nd-year-of-rule-naidu-sets-welfare-agenda-with-super-six-rollout-vow-amid-fund-strain-ysrcp-barbs/2656842/",
+        "kind": "News report"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Super Six",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": ""
+  },
+  {
+    "id": 12,
+    "name": "Divyang Shakti",
+    "te": "దివ్యాంగ శక్తి",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "family",
+    "benefit": "Free / concessional travel by pass eligibility",
+    "desc": "APSRTC provides a digital disability bus pass under Divyanga Shakthi, with benefits determined by the SADAREM record and bus category.",
+    "status": "Official programme",
+    "url": "https://www.apsrtc.ap.gov.in/On_PwdBusPasses.php",
+    "steps": [
+      "Read the current APSRTC PwD pass FAQ.",
+      "Apply through the official APSRTC app or its listed government service.",
+      "Confirm the pass fee, eligible buses and escort rules before applying."
+    ],
+    "contact": "APSRTC bus-pass counter / Official digital-pass support",
+    "sources": [
+      {
+        "title": "APSRTC digital disability-pass FAQ",
+        "url": "https://www.apsrtc.ap.gov.in/On_PwdBusPasses.php",
+        "kind": "Official"
+      }
+    ],
+    "docs": [
+      "SADAREM ID and certificate; photo as requested by the official service."
+    ],
+    "group": "Other programmes",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "The FAQ lists a ₹100 digital-pass issuance fee. Free or concessional travel and escort eligibility depend on the pass details; this is a travel benefit, not a general cash grant."
+  },
+  {
+    "id": 13,
+    "name": "Matsyakarula Sevalo",
+    "te": "మత్స్యకారుల సేవలో",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "livelihood",
+    "benefit": "Fisheries support — current rules pending review",
+    "desc": "Support for eligible fishing households. The supplied May 2026 announcement and its ₹286 crore figure have not been independently confirmed from an accessible official order.",
+    "status": "Official details pending",
+    "url": "",
+    "steps": [
+      "Ask the Fisheries Development Officer about the current fishing-ban relief notification.",
+      "Confirm the beneficiary survey, amount and correction process before submitting records."
+    ],
+    "contact": "Fisheries Development Officer / District Fisheries Office",
+    "sources": [
+      {
+        "title": "User-provided May 2026 review report",
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-reviews-super-six-schemes-with-collectors/1701/126080682",
+        "kind": "User reference; page unavailable in review"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Other programmes",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": ""
+  },
+  {
+    "id": 14,
+    "name": "Nethanna Sevalo",
+    "te": "నేతన్న సేవలో",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "livelihood",
+    "benefit": "₹25,000 annually — reported",
+    "desc": "August 2026 reporting describes support for eligible handloom-weaver households. The current official order, application window and any renamed-scheme relationship need confirmation.",
+    "status": "Reported; official details pending",
+    "url": "",
+    "steps": [
+      "Ask the District Handlooms and Textiles Officer for the current order.",
+      "Confirm the weaver-register and household requirements.",
+      "Use only the application route specified by the department."
+    ],
+    "contact": "District Handlooms and Textiles Officer / Local Secretariat",
+    "sources": [
+      {
+        "title": "PTI report quoting the minister",
+        "url": "https://theprint.in/india/nethanna-sevalo-scheme-andhra-to-provide-rs-25000-annual-aid-to-handloom-weavers-from-aug-7/3004338/",
+        "kind": "News report"
+      }
+    ],
+    "docs": [
+      "Confirm the current document requirements with the department.",
+      "Provide personal documents only through the authorised application channel."
+    ],
+    "group": "Other programmes",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": "₹25,000 is a reported annual figure. Do not treat different historical scheme names as multiple independent benefits."
+  },
+  {
+    "id": 15,
+    "name": "Dokka Seethamma Midday Meals",
+    "te": "డొక్కా సీతమ్మ మధ్యాహ్న భోజనం",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "education",
+    "benefit": "Nutritious meals at participating institutions",
+    "desc": "Official district education pages describe midday meals in government and aided schools, with implementation also described for government junior colleges.",
+    "status": "Official programme",
+    "url": "https://westgodavari.ap.gov.in/schooleducation/",
+    "steps": [
+      "Ask the headteacher or college principal whether the institution participates.",
+      "Confirm meal timings and the current menu at the institution."
+    ],
+    "contact": "School headteacher / College principal / Mandal Education Officer",
+    "sources": [
+      {
+        "title": "Official school-education description",
+        "url": "https://westgodavari.ap.gov.in/schooleducation/",
+        "kind": "Official"
+      },
+      {
+        "title": "Government junior-college implementation",
+        "url": "https://tirupati.ap.gov.in/intermediate-education/",
+        "kind": "Official"
+      }
+    ],
+    "docs": [
+      "Ask the institution about enrolment and participation requirements."
+    ],
+    "group": "Other programmes",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": ""
+  },
+  {
+    "id": 16,
+    "name": "Anna Canteens",
+    "te": "అన్న క్యాంటీన్లు",
+    "type": "state",
+    "region": "Andhra Pradesh",
+    "cat": "family",
+    "benefit": "Affordable breakfast, lunch and dinner",
+    "desc": "The official P4 portal describes Anna Canteens as a community meal service. Confirm the nearest operating canteen, current price and serving times locally.",
+    "status": "Official programme",
+    "url": "https://zeropovertyp4.ap.gov.in/campaignslist",
+    "steps": [
+      "Locate a nearby operating Anna Canteen.",
+      "Confirm the meal price and serving hours before travelling."
+    ],
+    "contact": "Local municipality / Operating Anna Canteen",
+    "sources": [
+      {
+        "title": "Official P4 Anna Canteens programme",
+        "url": "https://zeropovertyp4.ap.gov.in/campaignslist",
+        "kind": "Official"
+      }
+    ],
+    "docs": [
+      "Check the local canteen’s service conditions."
+    ],
+    "group": "Other programmes",
+    "checked": "2026-10-28",
+    "deadline": "Current window not confirmed",
+    "amountNote": ""
+  }
+]

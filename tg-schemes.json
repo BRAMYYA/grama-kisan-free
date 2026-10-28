@@ -1,0 +1,233 @@
+[
+  {
+    "id": 17,
+    "name": "Mahalakshmi",
+    "te": "మహాలక్ష్మి",
+    "type": "state",
+    "region": "Telangana",
+    "cat": "family",
+    "benefit": "Free eligible bus travel / ₹500 LPG; cash component requires confirmation",
+    "desc": "The guarantee groups cash support, subsidised LPG and bus travel. Each component has its own eligibility and implementation status.",
+    "status": "Official programme; component status varies",
+    "url": "https://www.telangana.gov.in/government-initiatives/",
+    "contact": "Gram Panchayat / Municipal ward office; Civil Supplies for LPG; TGSRTC depot for travel",
+    "amountNote": "₹2,500/month is described in the guarantee. This review does not confirm that cash component is open or being paid. Confirm the LPG and bus service rules separately.",
+    "steps": [
+      "Choose the benefit component you need.",
+      "Ask the relevant department to confirm eligibility and present availability.",
+      "For bus travel, confirm the covered service and accepted identity proof before boarding."
+    ],
+    "docs": [
+      "Confirm the current scheme-specific documents at the responsible office.",
+      "Use authorised government channels for identity, household and bank records."
+    ],
+    "sources": [
+      {
+        "title": "Official implementation information",
+        "url": "https://www.telangana.gov.in/government-initiatives/",
+        "kind": "Official"
+      },
+      {
+        "title": "Abhaya Hastham guarantee framework (2024)",
+        "url": "https://des.telangana.gov.in/publications/Socio%20Economic%20Outlook-2024.pdf",
+        "kind": "Historical official policy"
+      }
+    ],
+    "group": "Abhaya Hastham",
+    "checked": "2026-10-28",
+    "deadline": "Current application window must be confirmed"
+  },
+  {
+    "id": 2,
+    "name": "Rythu Bharosa",
+    "te": "రైతు భరోసా",
+    "type": "state",
+    "region": "Telangana",
+    "cat": "agriculture",
+    "benefit": "Published implementation: ₹12,000/acre/year",
+    "desc": "The official Suryapet scheme page lists ₹6,000 per acre per season, totalling ₹12,000 annually.",
+    "status": "Official programme",
+    "url": "https://suryapet.telangana.gov.in/scheme/rythu-bharosa/",
+    "contact": "Agriculture Extension Officer / Mandal Agriculture Officer",
+    "amountNote": "The ₹15,000/acre guarantee must not be shown as the implemented rate. Agricultural-labourer assistance and the paddy bonus are separate components; confirm their orders, crop variety rules and eligibility.",
+    "steps": [
+      "Check land and beneficiary records with the Mandal Agriculture Office.",
+      "Ask the officer about the current season and correction process.",
+      "Confirm any tenant-farmer or labourer category separately."
+    ],
+    "docs": [
+      "Confirm the current scheme-specific documents at the responsible office.",
+      "Use authorised government channels for identity, household and bank records."
+    ],
+    "sources": [
+      {
+        "title": "Official implementation information",
+        "url": "https://suryapet.telangana.gov.in/scheme/rythu-bharosa/",
+        "kind": "Official"
+      },
+      {
+        "title": "Abhaya Hastham guarantee framework (2024)",
+        "url": "https://des.telangana.gov.in/publications/Socio%20Economic%20Outlook-2024.pdf",
+        "kind": "Historical official policy"
+      }
+    ],
+    "group": "Abhaya Hastham",
+    "checked": "2026-10-28",
+    "deadline": "Current application window must be confirmed"
+  },
+  {
+    "id": 18,
+    "name": "Gruha Jyothi",
+    "te": "గృహ జ్యోతి",
+    "type": "state",
+    "region": "Telangana",
+    "cat": "family",
+    "benefit": "Zero bill for eligible monthly consumption up to 200 units",
+    "desc": "Eligible households can receive a zero electricity bill when consumption is at or below the scheme threshold.",
+    "status": "Official programme",
+    "url": "https://tgerc.telangana.gov.in/file_upload/uploads/Tariff%20Orders/Current%20Year%20Orders/2024/Order%20regarding%20Gruha%20Jyothi%20Scheme.pdf",
+    "contact": "Electricity section office / DISCOM customer-service centre",
+    "amountNote": "The official order requires a valid Food Security Card, Aadhaar linkage and a domestic service number through an approved application channel. Consumption above 200 units is not simply a free first-200-unit allowance.",
+    "steps": [
+      "Read the latest order and check the domestic connection details.",
+      "Ask the electricity section office to verify the scheme linkage.",
+      "Raise incorrect billing through the DISCOM’s official grievance route."
+    ],
+    "docs": [
+      "Confirm the current scheme-specific documents at the responsible office.",
+      "Use authorised government channels for identity, household and bank records."
+    ],
+    "sources": [
+      {
+        "title": "Official implementation information",
+        "url": "https://tgerc.telangana.gov.in/file_upload/uploads/Tariff%20Orders/Current%20Year%20Orders/2024/Order%20regarding%20Gruha%20Jyothi%20Scheme.pdf",
+        "kind": "Official"
+      },
+      {
+        "title": "Abhaya Hastham guarantee framework (2024)",
+        "url": "https://des.telangana.gov.in/publications/Socio%20Economic%20Outlook-2024.pdf",
+        "kind": "Historical official policy"
+      }
+    ],
+    "group": "Abhaya Hastham",
+    "checked": "2026-10-28",
+    "deadline": "Current application window must be confirmed"
+  },
+  {
+    "id": 19,
+    "name": "Indiramma Indlu",
+    "te": "ఇందిరమ్మ ఇండ్లు",
+    "type": "state",
+    "region": "Telangana",
+    "cat": "family",
+    "benefit": "₹5 lakh housing assistance, subject to sanction",
+    "desc": "The official housing order provides ₹5 lakh per eligible house, with selection and staged implementation.",
+    "status": "Official programme",
+    "url": "https://indirammaindlu.telangana.gov.in/",
+    "contact": "Gram Panchayat / MPDO / Municipal housing office",
+    "amountNote": "A house site plus assistance and the 250-square-yard movement-fighter promise must be checked against current category-specific orders. Do not assume every applicant receives a plot.",
+    "steps": [
+      "Check the official housing portal and local beneficiary list.",
+      "Ask the housing office about your application and sanctioned stage.",
+      "Confirm land/site and construction-stage requirements before spending."
+    ],
+    "docs": [
+      "Confirm the current scheme-specific documents at the responsible office.",
+      "Use authorised government channels for identity, household and bank records."
+    ],
+    "sources": [
+      {
+        "title": "Official implementation information",
+        "url": "https://indirammaindlu.telangana.gov.in/",
+        "kind": "Official"
+      },
+      {
+        "title": "Abhaya Hastham guarantee framework (2024)",
+        "url": "https://des.telangana.gov.in/publications/Socio%20Economic%20Outlook-2024.pdf",
+        "kind": "Historical official policy"
+      },
+      {
+        "title": "Indiramma Indlu ₹5 lakh guideline order",
+        "url": "https://indirammaindlu.telangana.gov.in/showContent?filename=%2FUploads%2FGRUHALAKSHMI%2FPDFS%2F4_1751019778055.pdf&filepath=basepath",
+        "kind": "Official order"
+      }
+    ],
+    "group": "Abhaya Hastham",
+    "checked": "2026-10-28",
+    "deadline": "Current application window must be confirmed"
+  },
+  {
+    "id": 20,
+    "name": "Yuva Vikasam",
+    "te": "యువ వికాసం",
+    "type": "state",
+    "region": "Telangana",
+    "cat": "education",
+    "benefit": "Vidya Bharosa Card up to ₹5 lakh — guarantee",
+    "desc": "The student card is part of the guarantee framework. Its current operational rules and application window were not confirmed in this review.",
+    "status": "Rollout not confirmed",
+    "url": "",
+    "contact": "Education welfare office / College scholarship office / District welfare department",
+    "amountNote": "Do not confuse this student-card promise with similarly named youth self-employment programmes. This entry does not confirm an open ₹5 lakh card application.",
+    "steps": [
+      "Ask for the current official order and eligible courses/categories.",
+      "Use the college or district welfare office to confirm any authorised application route."
+    ],
+    "docs": [
+      "Confirm the current scheme-specific documents at the responsible office.",
+      "Use authorised government channels for identity, household and bank records."
+    ],
+    "sources": [
+      {
+        "title": "Official implementation information",
+        "url": "https://www.telangana.gov.in/government-initiatives/",
+        "kind": "Official"
+      },
+      {
+        "title": "Abhaya Hastham guarantee framework (2024)",
+        "url": "https://des.telangana.gov.in/publications/Socio%20Economic%20Outlook-2024.pdf",
+        "kind": "Historical official policy"
+      }
+    ],
+    "group": "Abhaya Hastham",
+    "checked": "2026-10-28",
+    "deadline": "Current application window must be confirmed"
+  },
+  {
+    "id": 21,
+    "name": "Cheyutha / Rajiv Aarogyasri",
+    "te": "చేయూత / రాజీవ్ ఆరోగ్యశ్రీ",
+    "type": "state",
+    "region": "Telangana",
+    "cat": "family",
+    "benefit": "₹10 lakh health coverage; ₹4,000 pension promise needs confirmation",
+    "desc": "The official state initiatives page confirms health coverage under Rajiv Aarogyasri. Pension amounts and category eligibility require their own current orders.",
+    "status": "Official programme; component status varies",
+    "url": "https://www.telangana.gov.in/government-initiatives/",
+    "contact": "Aarogyamithra desk at an empanelled hospital; Panchayat/MPDO or municipal welfare office for pension questions",
+    "amountNote": "The ₹4,000 pension is a guarantee figure; this review does not confirm universal payment at that rate. Health cover is for eligible covered treatment and is not a cash payment.",
+    "steps": [
+      "For treatment, contact an Aarogyamithra desk to verify eligibility, package and hospital coverage.",
+      "For pensions, ask the responsible welfare office to confirm the current category rate and application period."
+    ],
+    "docs": [
+      "Confirm the current scheme-specific documents at the responsible office.",
+      "Use authorised government channels for identity, household and bank records."
+    ],
+    "sources": [
+      {
+        "title": "Official implementation information",
+        "url": "https://www.telangana.gov.in/government-initiatives/",
+        "kind": "Official"
+      },
+      {
+        "title": "Abhaya Hastham guarantee framework (2024)",
+        "url": "https://des.telangana.gov.in/publications/Socio%20Economic%20Outlook-2024.pdf",
+        "kind": "Historical official policy"
+      }
+    ],
+    "group": "Abhaya Hastham",
+    "checked": "2026-10-28",
+    "deadline": "Current application window must be confirmed"
+  }
+]

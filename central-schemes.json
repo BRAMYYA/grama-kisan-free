@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "PM-KISAN",
+    "te": "పీఎం కిసాన్",
+    "type": "central",
+    "cat": "agriculture",
+    "group": "Central Government",
+    "benefit": "₹6,000/year for eligible landholding farmer families",
+    "desc": "Central income support paid in three instalments, subject to scheme rules and exclusions.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://pmkisan.gov.in/",
+    "contact": "Mandal Agriculture Officer / authorised PM-KISAN or CSC helpdesk",
+    "steps": [
+      "Read eligibility and exclusions on the official portal.",
+      "Use Farmers Corner for the authorised registration, e-KYC or status service.",
+      "Ask the Agriculture Office to resolve incorrect beneficiary or land records."
+    ],
+    "amountNote": "AP Annadata Sukhibhava may describe a combined Centre/state amount. Do not count the PM-KISAN component twice.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://pmkisan.gov.in/",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 100,
+    "name": "PM Fasal Bima Yojana",
+    "te": "ప్రధాన మంత్రి ఫసల్ బీమా యోజన",
+    "type": "central",
+    "cat": "agriculture",
+    "group": "Central Government",
+    "benefit": "Crop insurance for notified crops and seasons",
+    "desc": "Insurance enrolment, premium calculation and policy-status services are available through the official PMFBY portal.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://pmfby.gov.in/farmerApplicationForm",
+    "contact": "Mandal Agriculture Officer / participating bank / insurer; PMFBY helpline 14447",
+    "steps": [
+      "Confirm whether your crop, location and season are notified.",
+      "Check the deadline, premium and documents with the authorised channel.",
+      "Use the official portal or participating bank/CSC to enrol and keep your policy receipt."
+    ],
+    "amountNote": "Insurance is not automatic for every crop. Follow the applicable loss-reporting deadlines in the policy.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://pmfby.gov.in/farmerApplicationForm",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 101,
+    "name": "Kisan Credit Card (KCC)",
+    "te": "కిసాన్ క్రెడిట్ కార్డు",
+    "type": "central",
+    "cat": "agriculture",
+    "group": "Central Government",
+    "benefit": "Agricultural credit through participating banks",
+    "desc": "KCC is a credit facility. The lending bank decides eligibility, limit, interest terms and required documents.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://fasalrin.gov.in/",
+    "contact": "Your participating bank branch / cooperative bank or PACS",
+    "steps": [
+      "Ask the branch for the current KCC application and eligibility rules.",
+      "Submit the required farming or allied-activity records through the bank.",
+      "Read repayment, interest and security terms before accepting the loan."
+    ],
+    "amountNote": "A loan is repayable credit, not a cash grant. The Kisan Rin Portal includes institutional workflows; farmers should contact their bank for applications.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://fasalrin.gov.in/",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 102,
+    "name": "Soil Health Card",
+    "te": "భూసార పరీక్ష కార్డు",
+    "type": "central",
+    "cat": "agriculture",
+    "group": "Central Government",
+    "benefit": "Soil testing and nutrient recommendations",
+    "desc": "A field-specific soil report helps farmers understand nutrient status and recommended soil/fertiliser management.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://www.nic.gov.in/project/soil-health-card-portal/",
+    "contact": "Mandal / District Agriculture Officer or approved soil-testing laboratory",
+    "steps": [
+      "Ask the Agriculture Office about sample collection and local coverage.",
+      "Use the prescribed sampling process and keep the sample reference.",
+      "Review the resulting card with the Agriculture Officer before changing inputs."
+    ],
+    "amountNote": "",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://www.nic.gov.in/project/soil-health-card-portal/",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 103,
+    "name": "e-NAM",
+    "te": "జాతీయ వ్యవసాయ మార్కెట్ (ఈ-నామ్)",
+    "type": "central",
+    "cat": "agriculture",
+    "group": "Central Government",
+    "benefit": "Access to participating agricultural markets",
+    "desc": "The national agricultural market platform supports farmer registration, trading information and market-linked services.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://www.enam.gov.in/web/stakeholders-Involved/farmers",
+    "contact": "Nearest participating APMC / e-NAM mandi registration desk",
+    "steps": [
+      "Confirm that your nearby market and commodity participate.",
+      "Register through the official portal, app or mandi desk.",
+      "Ask the mandi about assaying, bidding, payment and delivery procedures."
+    ],
+    "amountNote": "Registration does not guarantee a buyer, a particular sale price or immediate sale.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://www.enam.gov.in/web/stakeholders-Involved/farmers",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 104,
+    "name": "PM-KUSUM",
+    "te": "పీఎం కుసుమ్",
+    "type": "central",
+    "cat": "agriculture",
+    "group": "Central Government",
+    "benefit": "Eligible solar-pump / solarisation support",
+    "desc": "Central support is implemented through designated state agencies for the approved solar-pump and solar-generation components.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://pmkusum.mnre.gov.in/landing-faq.html",
+    "contact": "Designated state renewable-energy agency / DISCOM",
+    "steps": [
+      "Check the applicable component and current state notification.",
+      "Confirm subsidy, beneficiary contribution and approved vendor details with the state agency.",
+      "Apply only through the authorised state route."
+    ],
+    "amountNote": "The contribution, subsidy and application window differ by component and state. Do not pay a vendor based only on a general scheme summary.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://pmkusum.mnre.gov.in/landing-faq.html",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 105,
+    "name": "PM Vishwakarma",
+    "te": "పీఎం విశ్వకర్మ",
+    "type": "central",
+    "cat": "livelihood",
+    "group": "Central Government",
+    "benefit": "Support for eligible traditional artisans and craftspeople",
+    "desc": "The programme supports eligible self-employed workers in specified traditional trades, subject to its family and other eligibility rules.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://www.myscheme.gov.in/schemes/pmv",
+    "contact": "Authorised CSC / District Industries or implementing office",
+    "steps": [
+      "Check whether your trade and household meet the scheme rules.",
+      "Visit an authorised CSC for the prescribed registration process.",
+      "Follow local verification and the authorised benefit/training stages."
+    ],
+    "amountNote": "Farming alone does not establish eligibility: the specified artisan trade and other scheme conditions apply.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://www.myscheme.gov.in/schemes/pmv",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 4,
+    "name": "National Scholarship Portal",
+    "te": "జాతీయ ఉపకార వేతనాల పోర్టల్",
+    "type": "central",
+    "cat": "education",
+    "group": "Central Government",
+    "benefit": "Discover eligible central scholarship opportunities",
+    "desc": "Students can view scholarships, complete the required One Time Registration and use the official application/status services.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://scholarships.gov.in/Students",
+    "contact": "School / college scholarship nodal officer or authorised CSC",
+    "steps": [
+      "Choose the specific scholarship matching your course and category.",
+      "Read its current deadline and eligibility, then complete the required OTR.",
+      "Apply on NSP and follow institute/department verification."
+    ],
+    "amountNote": "NSP contains multiple scholarship schemes; eligibility, amounts and deadlines differ. It is not one universal scholarship payment.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://scholarships.gov.in/Students",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 3,
+    "name": "PMAY–Urban 2.0",
+    "te": "ప్రధాన మంత్రి ఆవాస్ యోజన–అర్బన్ 2.0",
+    "type": "central",
+    "cat": "family",
+    "group": "Central Government",
+    "benefit": "Housing assistance for eligible urban households",
+    "desc": "The official programme describes assistance through different housing components, subject to household and jurisdiction rules.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://pmaymis.gov.in/pmaymis2_2024/PmayFAQ.aspx",
+    "contact": "Municipal housing section / designated PMAY-U office",
+    "steps": [
+      "Confirm that your address falls under the urban programme.",
+      "Ask the municipal housing office which component and application route apply.",
+      "Check household housing ownership and previous-benefit exclusions."
+    ],
+    "amountNote": "Rural residents need the appropriate rural housing programme instead. Do not assume urban assistance applies to every village.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://pmaymis.gov.in/pmaymis2_2024/PmayFAQ.aspx",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 106,
+    "name": "Ayushman Bharat PM-JAY",
+    "te": "ఆయుష్మాన్ భారత్ పీఎం-జేఏవై",
+    "type": "central",
+    "cat": "family",
+    "group": "Central Government",
+    "benefit": "Eligibility-based access to covered hospital treatment",
+    "desc": "Beneficiary eligibility and covered treatment must be checked through authorised PM-JAY and state health-scheme channels.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://nha.gov.in/",
+    "contact": "Ayushman helpdesk / Aarogyamithra desk at an empanelled hospital",
+    "steps": [
+      "Ask an authorised hospital helpdesk to verify beneficiary eligibility.",
+      "Confirm that the hospital and treatment package are covered before admission.",
+      "Use the official grievance route for coverage or billing problems."
+    ],
+    "amountNote": "Coverage is not an unrestricted cash payment. State integration and the patient category affect the applicable process.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official programme information",
+        "url": "https://nha.gov.in/",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  },
+  {
+    "id": 107,
+    "name": "PMAY–Gramin (PMAY-G)",
+    "te": "ప్రధాన మంత్రి ఆవాస్ యోజన–గ్రామీణ్",
+    "type": "central",
+    "cat": "family",
+    "group": "Central Government",
+    "benefit": "Housing assistance for eligible rural households",
+    "desc": "Rural housing support for eligible houseless households and households living in kutcha or dilapidated homes, subject to survey lists, exclusions and local verification.",
+    "status": "Official programme; local availability must be confirmed",
+    "url": "https://pmayg.gov.in/netiayHome/questions.html",
+    "contact": "Gram Panchayat / Village Secretariat housing assistant / MPDO or block rural-development office",
+    "steps": [
+      "Ask the Gram Panchayat or housing office whether your household appears on the verified survey or waiting list.",
+      "Check current exclusions, survey/correction opportunities and Gram Sabha verification with the authorised office.",
+      "Follow the official sanction process and keep the acknowledgement. A website eligibility check alone does not guarantee a house."
+    ],
+    "amountNote": "This is the rural programme. PMAY–Urban 2.0 has different jurisdiction and eligibility rules. Confirm current assistance and any state contribution with the housing office.",
+    "docs": [
+      "Check the scheme-specific document list on the official website.",
+      "Provide identity, land, education or bank records only through the authorised application channel."
+    ],
+    "sources": [
+      {
+        "title": "Official PMAY-G eligibility questions",
+        "url": "https://pmayg.gov.in/netiayHome/questions.html",
+        "kind": "Official"
+      },
+      {
+        "title": "Ministry of Rural Development: beneficiary verification and extension",
+        "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2117394&lang=2&reg=48",
+        "kind": "Official"
+      }
+    ],
+    "checked": "2026-10-28",
+    "deadline": "Check the current scheme/season/category window"
+  }
+]
