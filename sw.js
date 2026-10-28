@@ -1,0 +1,5 @@
+const CACHE='grama-kisan-v5';
+const PATHS=['./','./index.html','./enhancements.js','./experience.js','./assets/grama-kisan-logo.png','./data/tg-schemes.json','./data/central-schemes.json','./data/ap-schemes.json','./data/locations.json','./data/representatives.json','./assets/cm-ap.png','./assets/cm-ts.png','./assets/pm.jpg'];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(PATHS)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('grama-kisan-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',e=>{if(new URL(e.request.url).pathname.startsWith('/api/'))return;if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(fetch(e.request).then(r=>{if(r.ok&&PATHS.some(p=>new URL(p,self.registration.scope).href===e.request.url)){const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy));}return r;}).catch(()=>caches.match(e.request).then(r=>r||new Response('Unavailable offline',{status:503}))));});
